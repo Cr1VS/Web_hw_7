@@ -1,0 +1,20 @@
+ERROR, 2024-02-18 22:28:46 customlogger log 78 - An error occurred: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+ERROR, 2024-02-18 22:29:23 customlogger log 78 - An error occurred: tuple index out of range
+ERROR, 2024-02-18 22:29:58 customlogger log 78 - An error occurred: tuple index out of range
+ERROR, 2024-02-18 22:30:31 customlogger log 78 - An error occurred: tuple index out of range
+ERROR, 2024-02-18 22:32:00 customlogger log 78 - An error occurred: tuple index out of range
+ERROR, 2024-02-18 22:32:35 customlogger log 78 - An error occurred: tuple index out of range
+ERROR, 2024-02-18 22:33:05 customlogger log 78 - An error occurred: tuple index out of range
+ERROR, 2024-02-18 22:33:21 customlogger log 78 - An error occurred: tuple index out of range
+ERROR, 2024-02-19 17:10:17 customlogger log 78 - An error occurred: tuple index out of range
+ERROR, 2024-02-19 17:11:12 customlogger log 78 - An error occurred: tuple index out of range
+ERROR, 2024-02-19 18:34:59 customlogger log 78 - An error occurred while updating record with id 1204: attribute name must be string, not 'NoneType'
+ERROR, 2024-02-19 18:35:42 customlogger log 78 - An error occurred while updating record with id 1204: attribute name must be string, not 'NoneType'
+ERROR, 2024-02-19 18:36:17 customlogger log 78 - An error occurred while updating record with id 1204: attribute name must be string, not 'NoneType'
+ERROR, 2024-02-19 18:39:06 customlogger log 78 - An error occurred while updating record with id 1204: cannot access local variable 'date' where it is not associated with a value
+ERROR, 2024-02-19 18:40:40 customlogger log 78 - An error occurred while updating record with id 1204: attribute name must be string, not 'NoneType'
